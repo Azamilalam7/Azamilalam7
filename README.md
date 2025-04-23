@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from India</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/c8/85/80/c8858019d395cea6404c087f6d96dbe7.jpg" alt="Profile Banner" width="300" style=" border-radius: 10px;"  />
+  <img src="https://i.pinimg.com/736x/58/09/95/580995bbd5d118af91237d529dfd6326.jpg" alt="Profile Banner" width="300" style=" border-radius: 10px;"  />
 </p>
 
 
